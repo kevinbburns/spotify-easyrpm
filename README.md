@@ -62,7 +62,7 @@ $> spotify-easyrpm --clean-repo
 
  ### Requirements
 
- * openSUSE Leap / SLE, or Tumbleweed
+ * Fedora 33/34
 
 
  ### Auto Updates
@@ -88,7 +88,4 @@ $> spotify-easyrpm --clean-repo
 
  ### Download links (One Click Install)
 
- * [openSUSE 15.1](https://software.opensuse.org/ymp/multimedia:apps/openSUSE_Leap_15.1/spotify-easyrpm.ymp?base=openSUSE%3ALeap%3A15.1&query=spotify-easyrpm)
- * [openSUSE 15.2](https://software.opensuse.org/ymp/multimedia:apps/openSUSE_Leap_15.2/spotify-easyrpm.ymp?base=openSUSE%3ALeap%3A15.2&query=spotify-easyrpm)
- * openSUSE 15.3 / SLE 15 SP3: `zypper install spotify-easyrpm`
- * openSUSE Tumbleweed: `zypper install spotify-easyrpm`
+* [Fedora34](https://github.com/kevinbburns/spotify-easyrpm/raw/master/RPMs/spotify-easyrpm-1.0.0-1.fc34.noarch.rpm)
